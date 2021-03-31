@@ -21,6 +21,13 @@
 * [Nesne Tabanlı Programlama](https://github.com/hazalozbey/python/blob/main/kal%C4%B1t%C4%B1m.py)
 * [Hatalar ve İstisnalar](https://github.com/hazalozbey/python/blob/main/hatalarveistisnalar.py)
 * Genel Tekrar
+  * [Basit hesap makinesi](https://github.com/hazalozbey/python/blob/main/basithesapmakinesi.py)
+  * [Hipotenüs bulma](https://github.com/hazalozbey/python/blob/main/hipoten%C3%BCsbulma.py)
+  * [Km-benzin hesabı](https://github.com/hazalozbey/python/blob/main/km-benzinhesab%C4%B1.py)
+  * [Basit kullanıcı girişi](https://github.com/hazalozbey/python/blob/main/kulan%C4%B1c%C4%B1giris.py)
+  * [kökler toplamı ve kök bulma](https://github.com/hazalozbey/python/blob/main/k%C3%B6klertoplam%C4%B1v%20k%C3%B6kbulma.py)
+  * [Sayı değiştirme](https://github.com/hazalozbey/python/blob/main/say%C4%B1degistirme.py)
+  * [Vücut kitle indexi](https://github.com/hazalozbey/python/blob/main/vucutindexi.py)
 * Dosya İşlemleri
 * Pythondaki Gömülü Fonksiyonlar
 * İleri Seviye Veri Yapıları ve Objeler
