@@ -20,7 +20,7 @@
 * [Modüller](https://github.com/hazalozbey/python/blob/main/mod%C3%BCller.py)
 * [Nesne Tabanlı Programlama](https://github.com/hazalozbey/python/blob/main/kal%C4%B1t%C4%B1m.py)
 * [Hatalar ve İstisnalar](https://github.com/hazalozbey/python/blob/main/hatalarveistisnalar.py)
-* [Genel Tekrar](https://github.com/hazalozbey/python/blob/main/9b%C3%B6l%C3%BCmtoplam%C3%A7al%C4%B1%C5%9Fma.py)
+* Genel Tekrar
 * Dosya İşlemleri
 * Pythondaki Gömülü Fonksiyonlar
 * İleri Seviye Veri Yapıları ve Objeler
