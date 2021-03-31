@@ -28,6 +28,7 @@
   * [kökler toplamı ve kök bulma](https://github.com/hazalozbey/python/blob/main/k%C3%B6klertoplam%C4%B1v%20k%C3%B6kbulma.py)
   * [Sayı değiştirme](https://github.com/hazalozbey/python/blob/main/say%C4%B1degistirme.py)
   * [Vücut kitle indexi](https://github.com/hazalozbey/python/blob/main/vucutindexi.py)
+  * [Basit Atm](https://github.com/hazalozbey/python/blob/main/atm.py)
 * Dosya İşlemleri
 * Pythondaki Gömülü Fonksiyonlar
 * İleri Seviye Veri Yapıları ve Objeler
