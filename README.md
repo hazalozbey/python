@@ -29,7 +29,7 @@
   * [Sayı değiştirme](https://github.com/hazalozbey/python/blob/main/say%C4%B1degistirme.py)
   * [Vücut kitle indexi](https://github.com/hazalozbey/python/blob/main/vucutindexi.py)
   * [Basit Atm](https://github.com/hazalozbey/python/blob/main/atm.py)
-* Dosya İşlemleri
+* [Dosya İşlemleri](https://github.com/hazalozbey/python/blob/main/dosyaislemler.py)
 * Pythondaki Gömülü Fonksiyonlar
 * İleri Seviye Veri Yapıları ve Objeler
 * Sqlite Veritabanı
