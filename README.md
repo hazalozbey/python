@@ -30,23 +30,3 @@
   * [Vücut kitle indexi](https://github.com/hazalozbey/python/blob/main/vucutindexi.py)
   * [Basit Atm](https://github.com/hazalozbey/python/blob/main/atm.py)
 * [Dosya İşlemleri](https://github.com/hazalozbey/python/blob/main/dosyaislemler.py)
-* Pythondaki Gömülü Fonksiyonlar
-* İleri Seviye Veri Yapıları ve Objeler
-* Sqlite Veritabanı
-* Fonksiyonların İleri Seviye Özellikleri ve Decoratorlar
-* Pythondaki Iteratorlar ve Generatorlar
-* Pythondaki İleri Seviye Modüller
-* PyQt5 - Arayüz Geliştirme
-* Flask Framework ile web Geliştirme Temelleri
-* Django Framework ile Web Geliştirme Temelleri
-* Selenium ve Ekşi Sözlük
-* Selenium ve Twitter
-* Selenium ve Instagram
-* Flask ve Fixer.io ile Döviz Çevirici
-* Github Rest Api ile Github Finder
-* Scrapy Framework ve kitapyurdu.com Projesi
-* Veri Analizi - Numpy
-* Veri Analizi - Pandas
-* U.S Soccer Leauge Salaries Analizi
-* Youtube Video İstatistikleri Analizi
-* Veri Görselleştirme - Matplotlib
